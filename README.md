@@ -6,3 +6,6 @@ https://diego-batista.github.io/Curso-B7Web/Awax/
 
 Projeto Starbuks:
 https://diego-batista.github.io/Curso-B7Web/Starbuks/
+
+Projeto Pizaa:
+https://diego-batista.github.io/Curso-B7Web/Pizza/
